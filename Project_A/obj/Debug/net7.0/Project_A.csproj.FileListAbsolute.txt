@@ -1,0 +1,14 @@
+D:\Visual Studio Project\Project_A\Project_A\obj\Debug\net7.0\Project_A.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Project\Project_A\Project_A\obj\Debug\net7.0\Project_A.AssemblyInfoInputs.cache
+D:\Visual Studio Project\Project_A\Project_A\obj\Debug\net7.0\Project_A.AssemblyInfo.cs
+D:\Visual Studio Project\Project_A\Project_A\obj\Debug\net7.0\Project_A.csproj.CoreCompileInputs.cache
+D:\Visual Studio Project\Project_A\Project_A\bin\Debug\net7.0\Project_A.exe
+D:\Visual Studio Project\Project_A\Project_A\bin\Debug\net7.0\Project_A.deps.json
+D:\Visual Studio Project\Project_A\Project_A\bin\Debug\net7.0\Project_A.runtimeconfig.json
+D:\Visual Studio Project\Project_A\Project_A\bin\Debug\net7.0\Project_A.dll
+D:\Visual Studio Project\Project_A\Project_A\bin\Debug\net7.0\Project_A.pdb
+D:\Visual Studio Project\Project_A\Project_A\obj\Debug\net7.0\Project_A.dll
+D:\Visual Studio Project\Project_A\Project_A\obj\Debug\net7.0\refint\Project_A.dll
+D:\Visual Studio Project\Project_A\Project_A\obj\Debug\net7.0\Project_A.pdb
+D:\Visual Studio Project\Project_A\Project_A\obj\Debug\net7.0\Project_A.genruntimeconfig.cache
+D:\Visual Studio Project\Project_A\Project_A\obj\Debug\net7.0\ref\Project_A.dll
